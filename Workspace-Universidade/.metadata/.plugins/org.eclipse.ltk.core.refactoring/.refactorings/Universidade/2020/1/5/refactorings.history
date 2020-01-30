@@ -1,0 +1,4 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<session version="1.0">
+<refactoring comment="Rename type &apos;br.org.generation.Universidade.controller.ProdutoController&apos; to &apos;CursoController&apos;&#x0D;&#x0A;- Original project: &apos;Universidade&apos;&#x0D;&#x0A;- Original element: &apos;br.org.generation.Universidade.controller.ProdutoController&apos;&#x0D;&#x0A;- Renamed element: &apos;br.org.generation.Universidade.controller.CursoController&apos;&#x0D;&#x0A;- Update references to refactored element&#x0D;&#x0A;- Update textual occurrences in comments and strings" description="Rename type &apos;ProdutoController&apos;" flags="589830" id="org.eclipse.jdt.ui.rename.type" input="/src\/main\/java&lt;br.org.generation.Universidade.controller{ProdutoController.java[ProdutoController" matchStrategy="1" name="CursoController" qualified="false" references="true" similarDeclarations="false" stamp="1580391737802" textual="false" version="1.0"/>
+</session>

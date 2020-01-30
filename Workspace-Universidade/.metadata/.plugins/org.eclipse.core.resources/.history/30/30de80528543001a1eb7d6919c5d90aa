@@ -1,0 +1,7 @@
+package br.org.generation.Universidade.dao;
+
+import org.springframework.data.repository.CrudRepository;
+
+public interface CursoRepo extends CrudRepository<Curso>, integer {
+
+}
